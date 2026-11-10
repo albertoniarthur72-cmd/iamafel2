@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Coração Doces da Mafel</title>
+  <rect width="64" height="64" rx="20" fill="#FCEAF2"/>
+  <path d="M32 51.5S11 38.9 6.5 27.4C2.7 18.8 8.1 9 17.8 9c6 0 10.7 4 14.2 8.2C35.5 13 40.2 9 46.2 9c9.7 0 15.1 9.8 11.3 18.4C53 38.9 32 51.5 32 51.5Z" fill="#E76BA6"/>
+  <circle cx="50.5" cy="12.5" r="2.2" fill="#D5A45B"/>
+</svg>

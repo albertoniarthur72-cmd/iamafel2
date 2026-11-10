@@ -1,0 +1,8 @@
+{
+  "routes": [
+    { "path": "/", "title": "Doces da Mafel — Início" },
+    { "path": "/produtos.html", "title": "Produtos — Doces da Mafel" },
+    { "path": "/sobre.html", "title": "Sobre nós — Doces da Mafel" },
+    { "path": "/contato.html", "title": "Contato — Doces da Mafel" }
+  ]
+}
